@@ -1,2 +1,5 @@
 # go-tour
-A Tour to Go のコード
+A Tour to Go のサンプルコード群
+
+
+
